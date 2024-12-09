@@ -1,4 +1,4 @@
-### **1: Introduction to C
+### **1: Introduction to C**
 
 **Creator:** Dennis Ritchie, AT&T Bell Labs, 1972
 
@@ -43,8 +43,6 @@
     * Absence of features like object-oriented programming and polymorphism
 
 ### **2: C Program Structure**
-
-**C Program Structure**
 
 **Basic Program Anatomy**
 
