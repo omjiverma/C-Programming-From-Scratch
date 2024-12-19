@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "9e5d2c9dbad12c58",
+    "type": "split",
+    "children": [
+      {
+        "id": "689a3826fc5653f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4d138d8aecd4897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08-File-Handling/readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83d25ceb2f0e8814",
+    "type": "split",
+    "children": [
+      {
+        "id": "2948d10bcdd06309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12a3f8bf91c54f63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "81c02b47f10e1b0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0028ce019ce38208",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fcdcf26a0bbb8eab",
+    "type": "split",
+    "children": [
+      {
+        "id": "4021cdba40be240c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb7a69d68949a33e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "07-Structures-Unions-and-Enums/readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for readme"
+            }
+          },
+          {
+            "id": "c6dac88799d9279d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "07-Structures-Unions-and-Enums/readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from readme"
+            }
+          },
+          {
+            "id": "37678ff7a148500b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "39857ee9d2578e4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "08-File-Handling/readme.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of readme"
+            }
+          },
+          {
+            "id": "92e163441fbe8674",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c4d138d8aecd4897",
+  "lastOpenFiles": [
+    "09-Preprocessor-and-Macros/readme.md",
+    "10-Advanced-Topics/readme.md",
+    "11-Secure-and-Efficient-C-Programming/readme.md",
+    "11-Secure-and-Efficient-C-Programming",
+    "10-Advanced-Topics",
+    "08-File-Handling/readme.md",
+    "09-Preprocessor-and-Macros",
+    "07-Structures-Unions-and-Enums/readme.md",
+    "08-File-Handling",
+    "06-Pointers/readme.md",
+    "07-Structures-Unions-and-Enums",
+    "06-Pointers",
+    "05-Arrays-and-String/readme.md",
+    "04-Function/readme.md",
+    "05-Arrays-and-String",
+    "05-Arrays-and-String",
+    "03-Control-Structures/readme.md",
+    "02-Variable-Data_Types-and-Operators/readme.md",
+    "01-C-Basics/readme.md",
+    "03-Control-Structures",
+    "0",
+    "01-C-Basics/02-First-C-Program.md",
+    "readme.md"
+  ]
+}
